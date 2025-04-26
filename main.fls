@@ -287,6 +287,7 @@ INPUT C:\Users\mohammad.ahmadi\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-
 INPUT C:\Users\mohammad.ahmadi\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\mohammad.ahmadi\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\mohammad.ahmadi\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\mohammad.ahmadi\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT .\main.out
 INPUT .\main.out
 INPUT main.out
@@ -492,5 +493,7 @@ INPUT C:\Users\mohammad.ahmadi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\
 INPUT C:\Users\mohammad.ahmadi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
 INPUT C:\Users\mohammad.ahmadi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
 INPUT C:\Users\mohammad.ahmadi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
+INPUT C:\Users\mohammad.ahmadi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk
+INPUT C:\Users\mohammad.ahmadi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk
 INPUT C:\Users\mohammad.ahmadi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
 INPUT C:\Users\mohammad.ahmadi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
